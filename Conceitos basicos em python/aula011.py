@@ -1,7 +1,6 @@
 print(' CORES NO TERMINAL')
-print(' para ukltilização de cores deve -se usar esse codigo'
-      /003[m'')
-O codigo para cor no terminal para ptthon (sao chmados codigo ansi)
+print(' para ultilização de cores deve -se usar esse codigo/003[m')
+'''O codigo para cor no terminal para ptthon (sao chmados codigo ansi)
 obdece essa estrutura:
 ===== /003[m   ===
 entre o colchete e o m minusculo colaca-se
@@ -19,4 +18,4 @@ classicação dos codigos
 
 * cor do text0 = do 30 até 37
 
-* back( cor de fundo) = 40 até 47 
+* back( cor de fundo) = 40 até 47''' 
