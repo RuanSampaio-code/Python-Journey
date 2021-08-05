@@ -9,6 +9,7 @@ srt -
 
 n1 = int(input('digite um numero:'))
 n2 = int(input('digite outro numero: '))
+n3= int(input('digite: '))
 soma = n1 + n2
 media = (n1+n2)/2
 print( 'A soma entre {} e {} é igual a {}.'.format(n1,n2, soma))

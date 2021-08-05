@@ -1,5 +1,5 @@
 # operações artimeticas
-
+print(''')
 * multiplicação
 ** potenciação ou pow (  ,  )
 // divisão inteira
@@ -9,4 +9,4 @@ ordem de precedencia
 1 - ()
 2 - **
 3 - *, /, //, %
-4 - +,-
+4 - +,-''')
