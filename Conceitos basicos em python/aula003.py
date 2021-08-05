@@ -3,7 +3,7 @@ print('Manipulando cadeias de textos ou caracteres')
 print('Operações de manipulação de textos')
 print('1º FATIAMENTO:')
 
-frase ='Treinando fatiamento de posição em lista'
+frase ='Curso em video'
 print(frase[9]) # aparecerá o corte de uma letra na posição indicada
 print(frase[:6]) # os dois pontos apresenta um intervalo atéa posição indicada
 print(frase[9:14]) # intervalos determinandos
