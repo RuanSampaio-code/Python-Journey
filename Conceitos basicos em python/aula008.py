@@ -6,4 +6,3 @@ raiz = sqrt(n)
 print (' A raiz de {} vale a {:.2f}'.format(n,raiz))
 
 
-import emoji
