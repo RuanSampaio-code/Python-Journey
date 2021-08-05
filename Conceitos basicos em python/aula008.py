@@ -1,4 +1,4 @@
-print('Aplicando Bibliotecas==')
+print('=Aplicando Bibliotecas==')
 '''from math import sqrt
 n = int(input( 'digite um numero: '))
 raiz = sqrt(n)
