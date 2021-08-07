@@ -10,6 +10,6 @@ while x<6:
     x=x+1
     if x%2==0:        
         print(x)
-print('fim')
+print('Fim')
     
 
