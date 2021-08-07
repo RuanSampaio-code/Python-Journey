@@ -8,7 +8,9 @@ print('Exemplo com while da msm situação anterior:')
 x=0
 while x<6:
     x=x+1
-    print(x)
+    if x%2==0:
+        
+        print(x)
 print('fim')
     
 
