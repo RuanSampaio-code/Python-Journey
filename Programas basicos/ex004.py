@@ -1,4 +1,4 @@
-
+print('Tipos primitivose e metodos de string'.isupper)
 n = input('Digite algo: ')
 print('O tipo primitivo desse valor é \033[1;30;41m{} \033[m'.format(type(n)))
 print('Só tem espaços? \033[1;30;41m{}\033[m'.format(n.isspace()))
